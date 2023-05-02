@@ -1,0 +1,12 @@
+/* Geral */
+@import "global.css";
+
+/* Home */
+@import "home/superinfo.css";
+@import "home/menu.css";
+@import "home/introducao.css";
+@import "home/produtos.css";
+@import "home/planos.css";
+@import "home/qualidade.css";
+@import "home/newsletter.css";
+@import "home/footer.css";
